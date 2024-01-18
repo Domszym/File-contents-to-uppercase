@@ -5,7 +5,7 @@
 #define ONE  1
 #define TWO  2 
 #define THREE 3
-//Dominic Szymanski - November 9th, 2022 - PROG71985 - Assignment #4 - Question 1
+//Dominic Szymanski - January 18th, 2024
 //This program will take a file, make a copy of it, and then convert all characters within the original file to
 //uppercase within the copy file. The program will be able to do this using command line arguments.
 
